@@ -103,7 +103,66 @@
             <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" style="color: white" width="50" height="50"/></a>
         </td>
     </tr>
+        <tr>
+        <td align="center" width="96">
+            <a href="https://developer.android.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" width="50" height="50"/></a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="50" height="50"/></a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" width="50" height="50"/></a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://capacitorjs.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/C/capacitor-logo-DF3634DD70-seeklogo.com.png" width="50" height="50"/></a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" width="50" height="50"/></a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" style="color: white" width="50" height="50"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/></a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="50" height="50"/></a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://www.atlassian.com/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="50" height="50"/></a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://bitbucket.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" width="50" height="50"/></a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50" height="50"/></a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://adobexdplatform.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/A/adobe-xd-logo-39468DE5D4-seeklogo.com.png" style="color: white" width="50" height="50"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="50" height="50"/></a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" width="50" height="50"/></a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="50" height="50"/></a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" width="50" height="50"/></a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50"/></a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+        </td>
+    </tr>
 </table>
-
 
 <br/>
