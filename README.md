@@ -11,12 +11,13 @@
 <br/>
 
 - 👨‍💻 I work as a **Frontend/FullStack Engineer**.
-- 💬 I discuss **Ideas** with people and love **Bringing them to Reality**.
-- ⚡ Love learning new technologies, expanding my skillset and interested in **AI * ML**.
-- 📩 Feel free to reach me via **[Email](mailto:ali@aftech.io**.
+- 💬 I love **Bringing Ideas to Reality**.
+- 🏆 High achieving projects such as **Strava** and **DeerCast**.
+- 🔍 Love learning new technologies, expanding my skillset and interested in **AI * ML**.
+- 📧 Feel free to reach me via **[Email](mailto:ali@aftech.io**).
 
 <br/>
 
-<h4 align="left">💻 Frameworks, Languages and Tools:</h4>
+<h4 align="left">🖥 Frameworks, Languages and Tools:</h4>
 
 <br/>
