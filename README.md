@@ -12,9 +12,9 @@
 
 - 👨‍💻 I work as a **Frontend/FullStack Engineer**.
 - 💬 I love **Bringing Ideas to Reality**.
-- 🏆 High achieving projects such as **Strava** and **DeerCast**.
+- 🏆 High achieving projects such as **Strava** & **DeerCast**.
 - 🔍 Love learning new technologies, expanding my skillset and interested in **AI & ML**.
-- 📧 Feel free to reach me via **[Email](mailto:ali@aftech.io**).
+- 📧 Feel free to reach me via **[Email](mailto:ali@aftech.io)**.
 
 <br/>
 
