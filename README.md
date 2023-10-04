@@ -4,7 +4,7 @@
 <br/>
 
 <p align="center"> 
-<a href="mailto:ali@aftech.io"><img src="https://img.shields.io/badge/-ali@aftech.io-C71610?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:aliabbas@cmail.carleton.ca"><img src="https://img.shields.io/badge/-aliabbas@cmail.carleton.ca-C71610?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ali-abbas-2282366b/"><img src="https://img.shields.io/badge/-LinkedIn-0E76A8?style=flat&logo=LinkedIn&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=aliabbas12&label=Profile%20views&color=0e75b6&style=flat" alt="aliabbas12" /> </p>
 
@@ -14,7 +14,7 @@
 - 💬 I love **Bringing Ideas to Reality**.
 - 🏆 High achieving projects such as **Strava** & **DeerCast**.
 - 🔍 Love learning new technologies, expanding my skillset and interested in **AI & ML**.
-- 📧 Feel free to reach me via **[Email](mailto:ali@aftech.io)**.
+- 📧 Feel free to reach me via **[Email](mailto:aliabbas@cmail.carleton.ca)**.
 
 <br/>
 
