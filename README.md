@@ -4,8 +4,7 @@
 <br/>
 
 <p align="center"> 
-<a href="mailto:aliabbas@cmail.carleton.ca"><img src="https://img.shields.io/badge/-aliabbas@cmail.carleton.ca-C71610?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ali-abbas-2282366b/"><img src="https://img.shields.io/badge/-LinkedIn-0E76A8?style=flat&logo=LinkedIn&logoColor=white"/></a>
+
 <img src="https://komarev.com/ghpvc/?username=aliabbas12&label=Profile%20views&color=0e75b6&style=flat" alt="aliabbas12" /> </p>
 
 <br/>
